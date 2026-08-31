@@ -1,3 +1,36 @@
+# ==========================================
+# OS & File System Junk
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# ==========================================
+# Code Editors & IDEs
+# ==========================================
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-workspace
+*.sublime-project
+
+# ==========================================
+# Local Media & Uncompressed Audio Captures
+# ==========================================
+*.wav
+*.flac
+*.aiff
+*.mp3
+*.m4a
+
 # Logs
 logs
 *.log
