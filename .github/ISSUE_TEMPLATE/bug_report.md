@@ -1,3 +1,4 @@
+---
 ## **name: Bug Report about: Create a report to help us fix a glitch, audio DSP error, or display issue title: 'fix(scope): brief description of the issue' labels: bug assignees: ''**
 
 ## **Bug Description**
@@ -29,3 +30,4 @@ If applicable, add screenshots, console error logs, or specific audio generator 
 ## **Additional Context**
 
 Add any other context about the problem here (e.g. Web AudioContext suspension issues, canvas scaling artifacts).
+---
