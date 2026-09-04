@@ -1,3 +1,4 @@
+---
 ## **name: Feature Request about: Suggest an idea or new pro-audio telemetry module for this project title: 'feat(scope): brief description of proposed feature' labels: enhancement assignees: ''**
 
 ## **Is your feature request related to a problem? Please describe.**
@@ -19,3 +20,4 @@ A description of any alternative solutions or features you've considered.
 ## **Additional Context**
 
 Add any other context, mockup sketches, or hardware spec sheets about the feature request here.
+---
